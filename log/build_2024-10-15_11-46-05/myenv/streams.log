@@ -1,0 +1,38 @@
+[1.005s] Invoking command in '/home/liam/CS460_HW1/fall2024-cs460-indoor-env/myenv': PYTHONPATH=/home/liam/CS460_HW1/fall2024-cs460-indoor-env/build/myenv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/myenv build --build-base /home/liam/CS460_HW1/fall2024-cs460-indoor-env/build/myenv/build install --record /home/liam/CS460_HW1/fall2024-cs460-indoor-env/build/myenv/install.log --single-version-externally-managed install_data
+[1.434s] running egg_info
+[1.434s] creating ../build/myenv/myenv.egg-info
+[1.435s] writing ../build/myenv/myenv.egg-info/PKG-INFO
+[1.435s] writing dependency_links to ../build/myenv/myenv.egg-info/dependency_links.txt
+[1.435s] writing entry points to ../build/myenv/myenv.egg-info/entry_points.txt
+[1.435s] writing requirements to ../build/myenv/myenv.egg-info/requires.txt
+[1.436s] writing top-level names to ../build/myenv/myenv.egg-info/top_level.txt
+[1.436s] writing manifest file '../build/myenv/myenv.egg-info/SOURCES.txt'
+[1.437s] reading manifest file '../build/myenv/myenv.egg-info/SOURCES.txt'
+[1.437s] adding license file 'LICENSE'
+[1.438s] writing manifest file '../build/myenv/myenv.egg-info/SOURCES.txt'
+[1.438s] running build
+[1.438s] running build_py
+[1.438s] creating /home/liam/CS460_HW1/fall2024-cs460-indoor-env/build/myenv/build
+[1.438s] creating /home/liam/CS460_HW1/fall2024-cs460-indoor-env/build/myenv/build/lib
+[1.438s] creating /home/liam/CS460_HW1/fall2024-cs460-indoor-env/build/myenv/build/lib/myenv
+[1.438s] copying myenv/__init__.py -> /home/liam/CS460_HW1/fall2024-cs460-indoor-env/build/myenv/build/lib/myenv
+[1.438s] running install
+[1.439s] running install_lib
+[1.440s] creating /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/lib/python3.10/site-packages/myenv
+[1.440s] copying /home/liam/CS460_HW1/fall2024-cs460-indoor-env/build/myenv/build/lib/myenv/__init__.py -> /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/lib/python3.10/site-packages/myenv
+[1.440s] byte-compiling /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/lib/python3.10/site-packages/myenv/__init__.py to __init__.cpython-310.pyc
+[1.440s] running install_data
+[1.441s] creating /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/share/ament_index
+[1.441s] creating /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/share/ament_index/resource_index
+[1.441s] creating /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/share/ament_index/resource_index/packages
+[1.441s] copying resource/myenv -> /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/share/ament_index/resource_index/packages
+[1.441s] copying package.xml -> /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/share/myenv
+[1.441s] creating /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/share/myenv/launch
+[1.441s] copying launch/webots_launch.py -> /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/share/myenv/launch
+[1.441s] creating /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/share/myenv/worlds
+[1.442s] copying worlds/my_world.wbt -> /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/share/myenv/worlds
+[1.448s] running install_egg_info
+[1.451s] Copying ../build/myenv/myenv.egg-info to /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/lib/python3.10/site-packages/myenv-0.0.0-py3.10.egg-info
+[1.452s] running install_scripts
+[1.473s] writing list of installed files to '/home/liam/CS460_HW1/fall2024-cs460-indoor-env/build/myenv/install.log'
+[1.491s] Invoked command in '/home/liam/CS460_HW1/fall2024-cs460-indoor-env/myenv' returned '0': PYTHONPATH=/home/liam/CS460_HW1/fall2024-cs460-indoor-env/build/myenv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/myenv build --build-base /home/liam/CS460_HW1/fall2024-cs460-indoor-env/build/myenv/build install --record /home/liam/CS460_HW1/fall2024-cs460-indoor-env/build/myenv/install.log --single-version-externally-managed install_data

@@ -1,0 +1,36 @@
+running egg_info
+creating ../build/myenv/myenv.egg-info
+writing ../build/myenv/myenv.egg-info/PKG-INFO
+writing dependency_links to ../build/myenv/myenv.egg-info/dependency_links.txt
+writing entry points to ../build/myenv/myenv.egg-info/entry_points.txt
+writing requirements to ../build/myenv/myenv.egg-info/requires.txt
+writing top-level names to ../build/myenv/myenv.egg-info/top_level.txt
+writing manifest file '../build/myenv/myenv.egg-info/SOURCES.txt'
+reading manifest file '../build/myenv/myenv.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../build/myenv/myenv.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/liam/CS460_HW1/fall2024-cs460-indoor-env/build/myenv/build
+creating /home/liam/CS460_HW1/fall2024-cs460-indoor-env/build/myenv/build/lib
+creating /home/liam/CS460_HW1/fall2024-cs460-indoor-env/build/myenv/build/lib/myenv
+copying myenv/__init__.py -> /home/liam/CS460_HW1/fall2024-cs460-indoor-env/build/myenv/build/lib/myenv
+running install
+running install_lib
+creating /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/lib/python3.10/site-packages/myenv
+copying /home/liam/CS460_HW1/fall2024-cs460-indoor-env/build/myenv/build/lib/myenv/__init__.py -> /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/lib/python3.10/site-packages/myenv
+byte-compiling /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/lib/python3.10/site-packages/myenv/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/share/ament_index
+creating /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/share/ament_index/resource_index
+creating /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/share/ament_index/resource_index/packages
+copying resource/myenv -> /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/share/ament_index/resource_index/packages
+copying package.xml -> /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/share/myenv
+creating /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/share/myenv/launch
+copying launch/webots_launch.py -> /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/share/myenv/launch
+creating /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/share/myenv/worlds
+copying worlds/my_world.wbt -> /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/share/myenv/worlds
+running install_egg_info
+Copying ../build/myenv/myenv.egg-info to /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/lib/python3.10/site-packages/myenv-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/liam/CS460_HW1/fall2024-cs460-indoor-env/build/myenv/install.log'
