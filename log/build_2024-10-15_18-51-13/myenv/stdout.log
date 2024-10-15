@@ -1,0 +1,19 @@
+running egg_info
+writing ../build/myenv/myenv.egg-info/PKG-INFO
+writing dependency_links to ../build/myenv/myenv.egg-info/dependency_links.txt
+writing entry points to ../build/myenv/myenv.egg-info/entry_points.txt
+writing requirements to ../build/myenv/myenv.egg-info/requires.txt
+writing top-level names to ../build/myenv/myenv.egg-info/top_level.txt
+reading manifest file '../build/myenv/myenv.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../build/myenv/myenv.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/lib/python3.10/site-packages/myenv-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../build/myenv/myenv.egg-info to /home/liam/CS460_HW1/fall2024-cs460-indoor-env/install/myenv/lib/python3.10/site-packages/myenv-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/liam/CS460_HW1/fall2024-cs460-indoor-env/build/myenv/install.log'
