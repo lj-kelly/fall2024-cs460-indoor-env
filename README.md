@@ -14,11 +14,11 @@ To build and run world
 To adjust doors
 1. Select a door to open/close
     note- doors are colored for ease of distinction
-    a. Left bathroom door (RED)
-        position 0 (closed) through -1.4 (open)
-    b. Right bathroom door (BLUE)
-        position 0.45 (closed) through 1.4 (open)
-    c. Left study room door (ORANGE)
-        position 0 (closed) through -1.5 (open)
-    d. Right study room door (GREEN)
-        position 0 (closed) through 1.5 (open)
+a. Left bathroom door (RED)
+    position 0 (closed) through -1.4 (open)
+b. Right bathroom door (BLUE)
+    position 0.45 (closed) through 1.4 (open)
+c. Left study room door (ORANGE)
+    position 0 (closed) through -1.5 (open)
+d. Right study room door (GREEN)
+    position 0 (closed) through 1.5 (open)
