@@ -24,3 +24,4 @@ note- doors are colored for ease of distinction
     position 0 (closed) through -1.5 (open)
 4. Right study room door (GREEN)
     position 0 (closed) through 1.5 (open)
+    
