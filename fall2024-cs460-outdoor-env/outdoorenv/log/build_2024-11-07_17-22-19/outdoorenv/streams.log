@@ -1,0 +1,31 @@
+[0.713s] Invoking command in '/home/liam/CS460_HW1/fall2024-cs460-outdoor-env/outdoorenv': PYTHONPATH=/home/liam/CS460_HW1/fall2024-cs460-outdoor-env/build/outdoorenv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/liam/CS460_HW1/fall2024-cs460-outdoor-env/install/outdoorenv/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/outdoorenv build --build-base /home/liam/CS460_HW1/fall2024-cs460-outdoor-env/build/outdoorenv/build install --record /home/liam/CS460_HW1/fall2024-cs460-outdoor-env/build/outdoorenv/install.log --single-version-externally-managed install_data
+[0.902s] running egg_info
+[0.902s] creating ../build/outdoorenv/outdoorenv.egg-info
+[0.902s] writing ../build/outdoorenv/outdoorenv.egg-info/PKG-INFO
+[0.902s] writing dependency_links to ../build/outdoorenv/outdoorenv.egg-info/dependency_links.txt
+[0.903s] writing entry points to ../build/outdoorenv/outdoorenv.egg-info/entry_points.txt
+[0.903s] writing requirements to ../build/outdoorenv/outdoorenv.egg-info/requires.txt
+[0.903s] writing top-level names to ../build/outdoorenv/outdoorenv.egg-info/top_level.txt
+[0.903s] writing manifest file '../build/outdoorenv/outdoorenv.egg-info/SOURCES.txt'
+[0.904s] reading manifest file '../build/outdoorenv/outdoorenv.egg-info/SOURCES.txt'
+[0.904s] writing manifest file '../build/outdoorenv/outdoorenv.egg-info/SOURCES.txt'
+[0.904s] running build
+[0.904s] running build_py
+[0.904s] creating /home/liam/CS460_HW1/fall2024-cs460-outdoor-env/build/outdoorenv/build
+[0.905s] creating /home/liam/CS460_HW1/fall2024-cs460-outdoor-env/build/outdoorenv/build/lib
+[0.905s] creating /home/liam/CS460_HW1/fall2024-cs460-outdoor-env/build/outdoorenv/build/lib/outdoorenv
+[0.905s] copying outdoorenv/__init__.py -> /home/liam/CS460_HW1/fall2024-cs460-outdoor-env/build/outdoorenv/build/lib/outdoorenv
+[0.905s] running install
+[0.905s] running install_lib
+[0.905s] creating /home/liam/CS460_HW1/fall2024-cs460-outdoor-env/install/outdoorenv/lib/python3.10/site-packages/outdoorenv
+[0.905s] copying /home/liam/CS460_HW1/fall2024-cs460-outdoor-env/build/outdoorenv/build/lib/outdoorenv/__init__.py -> /home/liam/CS460_HW1/fall2024-cs460-outdoor-env/install/outdoorenv/lib/python3.10/site-packages/outdoorenv
+[0.906s] byte-compiling /home/liam/CS460_HW1/fall2024-cs460-outdoor-env/install/outdoorenv/lib/python3.10/site-packages/outdoorenv/__init__.py to __init__.cpython-310.pyc
+[0.906s] running install_data
+[0.906s] creating /home/liam/CS460_HW1/fall2024-cs460-outdoor-env/install/outdoorenv/share/ament_index
+[0.906s] creating /home/liam/CS460_HW1/fall2024-cs460-outdoor-env/install/outdoorenv/share/ament_index/resource_index
+[0.906s] creating /home/liam/CS460_HW1/fall2024-cs460-outdoor-env/install/outdoorenv/share/ament_index/resource_index/packages
+[0.906s] copying resource/outdoorenv -> /home/liam/CS460_HW1/fall2024-cs460-outdoor-env/install/outdoorenv/share/ament_index/resource_index/packages
+[0.906s] copying package.xml -> /home/liam/CS460_HW1/fall2024-cs460-outdoor-env/install/outdoorenv/share/outdoorenv
+[0.906s] creating /home/liam/CS460_HW1/fall2024-cs460-outdoor-env/install/outdoorenv/share/outdoorenv/launch
+[0.906s] error: can't copy 'launch/webots_launch.py': doesn't exist or not a regular file
+[0.917s] Invoked command in '/home/liam/CS460_HW1/fall2024-cs460-outdoor-env/outdoorenv' returned '1': PYTHONPATH=/home/liam/CS460_HW1/fall2024-cs460-outdoor-env/build/outdoorenv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/liam/CS460_HW1/fall2024-cs460-outdoor-env/install/outdoorenv/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/outdoorenv build --build-base /home/liam/CS460_HW1/fall2024-cs460-outdoor-env/build/outdoorenv/build install --record /home/liam/CS460_HW1/fall2024-cs460-outdoor-env/build/outdoorenv/install.log --single-version-externally-managed install_data

@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+build/outdoorenv/outdoorenv.egg-info/PKG-INFO
+build/outdoorenv/outdoorenv.egg-info/SOURCES.txt
+build/outdoorenv/outdoorenv.egg-info/dependency_links.txt
+build/outdoorenv/outdoorenv.egg-info/entry_points.txt
+build/outdoorenv/outdoorenv.egg-info/requires.txt
+build/outdoorenv/outdoorenv.egg-info/top_level.txt
+build/outdoorenv/outdoorenv.egg-info/zip-safe
+launch/webots_launch.py
+outdoorenv/__init__.py
+resource/outdoorenv
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
+worlds/my_world.wbt

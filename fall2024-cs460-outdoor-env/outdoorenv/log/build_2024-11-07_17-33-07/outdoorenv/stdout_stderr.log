@@ -1,0 +1,19 @@
+running egg_info
+writing build/outdoorenv/outdoorenv.egg-info/PKG-INFO
+writing dependency_links to build/outdoorenv/outdoorenv.egg-info/dependency_links.txt
+writing entry points to build/outdoorenv/outdoorenv.egg-info/entry_points.txt
+writing requirements to build/outdoorenv/outdoorenv.egg-info/requires.txt
+writing top-level names to build/outdoorenv/outdoorenv.egg-info/top_level.txt
+reading manifest file 'build/outdoorenv/outdoorenv.egg-info/SOURCES.txt'
+writing manifest file 'build/outdoorenv/outdoorenv.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+copying package.xml -> /home/liam/CS460_HW1/fall2024-cs460-outdoor-env/outdoorenv/install/outdoorenv/share/outdoorenv
+running install_egg_info
+removing '/home/liam/CS460_HW1/fall2024-cs460-outdoor-env/outdoorenv/install/outdoorenv/lib/python3.10/site-packages/outdoorenv-0.0.0-py3.10.egg-info' (and everything under it)
+Copying build/outdoorenv/outdoorenv.egg-info to /home/liam/CS460_HW1/fall2024-cs460-outdoor-env/outdoorenv/install/outdoorenv/lib/python3.10/site-packages/outdoorenv-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/liam/CS460_HW1/fall2024-cs460-outdoor-env/outdoorenv/build/outdoorenv/install.log'

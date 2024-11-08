@@ -1,0 +1,20 @@
+[0.469s] Invoking command in '/home/liam/CS460_HW1/fall2024-cs460-outdoor-env/outdoorenv': PYTHONPATH=/home/liam/CS460_HW1/fall2024-cs460-outdoor-env/outdoorenv/build/outdoorenv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/liam/CS460_HW1/fall2024-cs460-outdoor-env/outdoorenv/install/outdoorenv/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/outdoorenv build --build-base /home/liam/CS460_HW1/fall2024-cs460-outdoor-env/outdoorenv/build/outdoorenv/build install --record /home/liam/CS460_HW1/fall2024-cs460-outdoor-env/outdoorenv/build/outdoorenv/install.log --single-version-externally-managed install_data
+[0.661s] running egg_info
+[0.662s] writing build/outdoorenv/outdoorenv.egg-info/PKG-INFO
+[0.662s] writing dependency_links to build/outdoorenv/outdoorenv.egg-info/dependency_links.txt
+[0.662s] writing entry points to build/outdoorenv/outdoorenv.egg-info/entry_points.txt
+[0.662s] writing requirements to build/outdoorenv/outdoorenv.egg-info/requires.txt
+[0.662s] writing top-level names to build/outdoorenv/outdoorenv.egg-info/top_level.txt
+[0.663s] reading manifest file 'build/outdoorenv/outdoorenv.egg-info/SOURCES.txt'
+[0.664s] writing manifest file 'build/outdoorenv/outdoorenv.egg-info/SOURCES.txt'
+[0.664s] running build
+[0.664s] running build_py
+[0.664s] running install
+[0.664s] running install_lib
+[0.665s] running install_data
+[0.666s] running install_egg_info
+[0.667s] removing '/home/liam/CS460_HW1/fall2024-cs460-outdoor-env/outdoorenv/install/outdoorenv/lib/python3.10/site-packages/outdoorenv-0.0.0-py3.10.egg-info' (and everything under it)
+[0.667s] Copying build/outdoorenv/outdoorenv.egg-info to /home/liam/CS460_HW1/fall2024-cs460-outdoor-env/outdoorenv/install/outdoorenv/lib/python3.10/site-packages/outdoorenv-0.0.0-py3.10.egg-info
+[0.667s] running install_scripts
+[0.682s] writing list of installed files to '/home/liam/CS460_HW1/fall2024-cs460-outdoor-env/outdoorenv/build/outdoorenv/install.log'
+[0.695s] Invoked command in '/home/liam/CS460_HW1/fall2024-cs460-outdoor-env/outdoorenv' returned '0': PYTHONPATH=/home/liam/CS460_HW1/fall2024-cs460-outdoor-env/outdoorenv/build/outdoorenv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/liam/CS460_HW1/fall2024-cs460-outdoor-env/outdoorenv/install/outdoorenv/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/outdoorenv build --build-base /home/liam/CS460_HW1/fall2024-cs460-outdoor-env/outdoorenv/build/outdoorenv/build install --record /home/liam/CS460_HW1/fall2024-cs460-outdoor-env/outdoorenv/build/outdoorenv/install.log --single-version-externally-managed install_data
