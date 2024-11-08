@@ -1,4 +1,6 @@
 # fall2024-cs460-indoor-env
+NOTE- OUTDOOR ENV INCLUDED HERE IN SEPARATE FOLDER
+
 Webots simulated environment of Saban Catholic Student Center for class assignment
 
 To build and run world-
@@ -24,4 +26,4 @@ note- doors are colored for ease of distinction
     position 0 (closed) through -1.5 (open)
 4. Right study room door (GREEN)
     position 0 (closed) through 1.5 (open)
-    
+
